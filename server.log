@@ -1,0 +1,16 @@
+[16:47:24] alt:V Server 7.2 (release)
+[16:47:24] Starting alt:V Server on 0.0.0.0:7788
+[16:47:24] Loading resource chat
+[16:47:24] Loaded resource chat
+[16:47:24] Required server permissions:
+[16:47:24] Optional server permissions:
+[16:47:24] Starting HTTP server on 0.0.0.0:7788
+[16:47:24] Main thread started (ThreadId: 16368)
+[16:47:24] Colshape thread started (ThreadId: 10436)
+[16:47:24] EntityStreamer thread started (ThreadId: 19536)
+[16:47:24] Network thread started (ThreadId: 17676)
+[16:47:24] Console thread started (ThreadId: 12228)
+[16:47:24] Server started
+[17:09:35] Stopping resource chat
+[17:09:35] Stopped resource chat
+[17:09:35] Server shutdown
